@@ -1,1 +1,1 @@
-# mathMeritProving
+# MathMeritProving
